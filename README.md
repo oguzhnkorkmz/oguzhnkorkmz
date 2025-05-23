@@ -27,8 +27,6 @@
 ## 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhnkorkmz&show_icons=true&theme=tokyonight" alt="stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnkorkmz&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
