@@ -1,33 +1,43 @@
 <h1 align="center">👋 Merhaba, ben Oğuzhan Korkmaz</h1>
 <p align="center">
   🚀 Full Stack Junior .NET Geliştirici <br/>
-  📍 Türkiye &nbsp;|&nbsp; 📧 oguz.korkmz.2594@icloud.com
+  📍 Türkiye &nbsp;|&nbsp; 📧 <a href="mailto:oguz.korkmz.2594@icloud.com">oguz.korkmz.2594@icloud.com</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/12Xi4q6vswlaVk/giphy.gif" alt="coding gif" width="400"/>
 </p>
 
 ---
 
 ## 🧰 Kullandığım Teknolojiler
 
-- 💻 Backend: `ASP.NET Core Web API`, `ASP.NET MVC`, `C#`, `.NET Core`, `Entity Framework`
-- 🎨 Frontend: `React`, `JavaScript`, `HTML5`, `CSS`
-- 🗄️ Veritabanı: `MS SQL Server (T-SQL)`
-- 🏗️ Mimari: `Layered Architecture`
-- ⚙️ Diğer: `Git`, `GitHub`, `Microsoft Azure`, `Docker (öğrenme aşamasında)`
+<p align="center">
+  <img src="https://img.shields.io/badge/-ASP.NET%20Core-green" />
+  <img src="https://img.shields.io/badge/-CSharp-9b6a6a" />
+  <img src="https://img.shields.io/badge/-React-blue" />
+  <img src="https://img.shields.io/badge/-Docker-blueviolet" />
+  <img src="https://img.shields.io/badge/-MS%20SQL%20Server-darkblue" />
+  <img src="https://img.shields.io/badge/-Azure-darkorange" />
+  <img src="https://img.shields.io/badge/-Git-black" />
+</p>
 
 ---
 
 ## 🚧 Şu Anda Öğreniyorum
 
-- Mikroservis Mimarisi
-- Docker ile kapsayıcılı geliştirme
-- Azure servislerinin derinlemesine kullanımı
+- 🛠️ **Mikroservis Mimarisi**
+- 🐳 **Docker ile kapsayıcılı geliştirme**
+- 🌐 **Azure servislerinin derinlemesine kullanımı**
 
 ---
 
 ## 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnkorkmz&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnkorkmz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -36,9 +46,7 @@
 
 > Yazılım dünyasında her gün yeni bir şey öğrenmek, beni hem motive ediyor hem de geliştiriyor. Kod yazmak, sadece iş değil; tutku. 🚀
 
----
-
-![Profil Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=oguzhnkorkmz&label=Profil%20Ziyaretleri&color=blue)
 
 ---
+
 
