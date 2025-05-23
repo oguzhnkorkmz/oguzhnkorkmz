@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/12Xi4q6vswlaVk/giphy.gif" alt="coding gif" width="400"/>
-</p>
-
----
-
 ## 🧰 Kullandığım Teknolojiler
 
 <p align="center">
